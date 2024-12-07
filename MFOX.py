@@ -10,7 +10,7 @@ The implementation builds upon the foundational code presented in [1], which emp
 rectangular approximation of the MFHF integrals, with significant enhancements. 
 Specifically, the current version of the code enables the evaluation of MFHF when 
 either 'm' or 'n' is included in the definition. Additionally, the implementation 
-extends functionality to evaluate MFHF even when one or more  of (a_p^(i), alpha_p^(i)) 
+extends functionality to evaluate MFHF even when one or more of (a_p^(i), alpha_p^(i)) 
 or (b_q^(i), beta_q^(i)) are empty. An example of using this module is provided 
 in the script Hybrid_Capacity.py.
 
